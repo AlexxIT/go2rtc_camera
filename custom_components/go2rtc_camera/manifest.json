@@ -1,0 +1,16 @@
+{
+  "domain": "go2rtc_camera",
+  "name": "go2rtc Camera",
+  "codeowners": [
+    "@AlexxIT"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "go2rtc"
+  ],
+  "documentation": "https://github.com/AlexxIT/go2rtc_camera",
+  "iot_class": "local",
+  "issue_tracker": "https://github.com/AlexxIT/go2rtc_camera/issues",
+  "requirements": [],
+  "version": "1.0.0"
+}

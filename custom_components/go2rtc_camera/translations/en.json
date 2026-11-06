@@ -1,0 +1,36 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "go2rtc camera",
+        "data": {
+          "url": "URL",
+          "two_way": "Two-way",
+          "server": "Server"
+        },
+        "data_description": {
+          "url": "Camera URL or go2rtc stream name",
+          "two_way": "If your stream supports two-way audio",
+          "server": "Custom go2rtc server address"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "user": {
+        "title": "go2rtc camera",
+        "data": {
+          "url": "URL",
+          "two_way": "Two-way",
+          "server": "Server"
+        },
+        "data_description": {
+          "url": "Camera URL or go2rtc stream name",
+          "two_way": "If your stream supports two-way audio",
+          "server": "Custom go2rtc server address"
+        }
+      }
+    }
+  }
+}
